@@ -9,4 +9,6 @@ controller_gui
 Controller
   Contains the Arduino project that you need to upload unto arduino for it to work with the GUI app.
   Select either arduino or MEGA using the proper define in "ArdPerAccess.h" file
+
+For more info, go to http://navinbhaskar.blogspot.in/2013/02/arduino-controller-3.html
  
